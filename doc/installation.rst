@@ -72,6 +72,8 @@ be solved by installing the *gcc* compiler shipped with AnaConda (as well as
 Conda-forge
 ~~~~~~~~~~~
 
+
+
 Installing `auto-sklearn` from the `conda-forge` channel can be achieved by adding `conda-forge` to your channels with:
 
 .. code:: bash
